@@ -1,0 +1,15 @@
+@charset "UTF-8";
+ul li a {
+    line-height: 50px;
+}
+
+body {
+    background-position: 20%
+%;
+    background-position: 70% 40%;
+    background-image: url("colorful-patterned-background.jpg");
+}
+body h1 {
+    color: #C88EF6;
+    font-family: "ヒラギノ角ゴシック Sans W8";
+}
