@@ -1,0 +1,20 @@
+@charset "UTF-8";
+.key {
+    color: #FA0403;
+    font-size: larger;
+    font-family: "筑紫B丸ゴシック ボールド";
+}
+.key2{
+	color: #FA0403;
+}
+.resizeimage img {
+	width: 40%;
+}
+.resizeimage video {
+	width: 100%;
+}
+body{
+    background-color: #1F1F1F;
+    color: #FFFFFF;
+    font-family: "筑紫B丸ゴシック ボールド";
+}
